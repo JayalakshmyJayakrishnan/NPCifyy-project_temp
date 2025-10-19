@@ -108,8 +108,7 @@ Features Implemented
 *An overengineered sacred blueprint mapping the divine journey of pixels, lores and ritual logins because a simple group chat just wouldn’t suffice.*
 
 For Hardware:
-
-# Schematic & Circuit
+Schematic & Circuit
 *There is none. Just pixels and dreams.*
 
 
@@ -119,13 +118,12 @@ For Hardware:
 
 *Shows the journey from mortal to lore-bearer.*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [JJ]: [Developed the Frontend]
+- [Roshan]: [Engineered the Backend]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
